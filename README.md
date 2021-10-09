@@ -17,12 +17,17 @@ Our team includes a total of 10 members from all 1st, 2nd and 3rd year of Statis
 done significant amount of work and put all their dedication to help for the completion of the project. 
 
 Team Members:
-* Chirag Kohli (2nd yr)
-* Manasvi Rawat (2nd yr)
-* Ravi (2nd yr)
-* Sanvi Arora (1st yr)
+* Chirag Kohli (2nd year)
+* Manasvi Rawat (2nd year)
+* Ravi (2nd year)
+* Sanvi Arora (1st year)
+
 Sub-Heads:
-* Ashwin B. Alikkal (3rd yr)
-* Anuj (3rd yr)
-* Satish Verma (3rd yr)
-* Shubham Bhati (3rd yr)
+* Ashwin B. Alikkal (3rd year)
+* Anuj (3rd year)
+* Satish Verma (3rd year)
+* Shubham Bhati (3rd year)
+
+Team-Heads:
+* Akhil Gupta (3rd year)
+* Ranit Chatterjee (3rd year)
