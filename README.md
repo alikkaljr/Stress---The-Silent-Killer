@@ -12,7 +12,7 @@ In order to cover every type of people we targeted:
 
 The aim will be to get at least 100 responds from each area in order to get efficient results
 
-##Team
+## Team
 Our team includes a total of 10 members from all 1st, 2nd and 3rd year of Statistics,Department of Ramanujan College, University of Delhi. Each member of our project has 
 done significant amount of work and put all their dedication to help for the completion of the project. 
 
